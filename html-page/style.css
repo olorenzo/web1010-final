@@ -1,0 +1,41 @@
+.wrapper {
+  background-color: #dddddd;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pizza {
+  font-size: 50px;
+  color:blu;
+  font-style: romain;
+  font-family: 'Eagle Lake', cursive;
+
+}
+
+p{
+  color:yellow;
+
+}
+
+ .toast:hover {
+   text-shadow:  20px -45px 0 black;
+   transition: all 3000ms;
+   background-color: #555555;
+ }
+
+ .center {
+ text-align: center;
+}
+
+li{
+  list-style-type:inherit;
+}
+
+.tatoo {
+  width: 1000px;
+  margin-bottom: 50px;
+}
+
+.pizza.toast {
+  margin-top: 1px;
+}
